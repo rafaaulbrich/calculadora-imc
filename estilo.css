@@ -1,0 +1,18 @@
+label{
+    display: inline-block;
+}
+#calcular{
+    margin-top: 15px;
+}
+div{
+    margin-top: 10px;
+}
+body{
+    text-align: center;
+}
+.magreza-grave, .magreza-moderada, .sobrepeso, .obesidade1, .obesidade2, .obesidade3{
+    color: red;
+}
+.magreza-leve, .saudavel {
+    color: green;
+}
